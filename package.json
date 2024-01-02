@@ -1,7 +1,7 @@
 {
-  "name": "modules1",
+  "name": "modules2",
   "version": "1.0.0",
-  "description": "Modules task1 - Webpack",
+  "description": "Modules task2 - Import/Export",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IrinaGinger/modules1.git"
+    "url": "git+https://github.com/IrinaGinger/modules2.git"
   },
   "keywords": [
     "game"
@@ -19,9 +19,9 @@
   "author": "Irina Kriuchkova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IrinaGinger/modules1/issues"
+    "url": "https://github.com/IrinaGinger/modules2/issues"
   },
-  "homepage": "https://github.com/IrinaGinger/modules1#readme",
+  "homepage": "https://github.com/IrinaGinger/modules2#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.4",
     "@babel/core": "^7.23.7",
